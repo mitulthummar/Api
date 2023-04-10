@@ -1,0 +1,5 @@
+PORT = 9002
+Host = localhost
+MONGO_DB_CLOUD_URL = mongodb+srv://mitulthummar007:Admin@cluster0.fi5rsax.mongodb.net/newskill?retryWrites=true&w=majority
+MONGO_DB_DATABASE = users-manager
+JWT_SECRET_KEY = skill_qode
